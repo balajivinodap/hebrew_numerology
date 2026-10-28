@@ -1,0 +1,1 @@
+Copied from https://github.com/mattpocock/skills at commit c55ee46 (MIT). Update by re-copying from upstream.
