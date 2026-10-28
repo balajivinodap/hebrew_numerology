@@ -17,7 +17,7 @@ _Avoid_: person, profile, client
 ### Research
 
 **Research Entry**:
-One dated record of research about one Subject. It holds Findings.
+The research on one question about one Subject. Members can add to it on later days, and each Finding carries its own date.
 _Avoid_: research, report, session
 
 **Finding**:
